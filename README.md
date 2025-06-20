@@ -76,8 +76,8 @@ Proyek ini melakukan analisis sentimen terhadap data ulasan menggunakan pendekat
 
 ## 👨‍💻 Author
 
-- Nama: *[Isi Nama Anda]*
-- Email: *[Isi Kontak Anda]*
+- Nama: *[Ryan Rachmad Hidayat]*
+- Email: *[ryan.rachmad.works@gmail.com]*
 - Dibuat dengan ❤️ untuk analisis teks bahasa Indonesia
 
 ---
