@@ -7,9 +7,9 @@ Proyek ini melakukan analisis sentimen terhadap data ulasan menggunakan pendekat
 
 ## 📂 Dataset
 
-- Dataset: `reviews.csv`
+- Dataset: `bsi_reviews.csv`
 - Kolom:
-  - `text` — Teks ulasan
+  - `content` — Teks ulasan
   - `polarity` — Label sentimen (positif, negatif, netral)
 
 ---
